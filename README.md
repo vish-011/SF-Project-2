@@ -8,7 +8,6 @@ This project involves building an autonomous car using an Arduino Nano. The car 
 - Ultrasonic sensor (HC-SR04)
 - Camera module for lane detection (e.g., Pixy2)
 - Motor driver (L298N)
-- 2 DC motors
 - Car chassis (Prime Intact 2WD)
 - Wheels and caster wheel
 - Power supply (battery pack)
